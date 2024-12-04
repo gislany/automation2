@@ -4,20 +4,20 @@
         "logoComponent": "/html/body/div[2]/header/div/div/div[1]/h1/a/img",
 
         "ferramentasComponent": {
-            "componet": "//*[@id='main']/div/div[1]/ul/li[1]/a"
+            "componet": "//*[@id='main']/div/div[1]/ul/li[1]/a",
             "url": "https://uniaotintas.com.br/ferramentas/",
         },
 
         "ambienteComponent": {
-            "component": "//*[@id='main']/div/div[1]/ul/li[2]/a"
+            "component": "//*[@id='main']/div/div[1]/ul/li[2]/a",
             "url": "http://www.coral.com.br/blog/category/ambientes/",
         },
 
         "dicasUteisComponent": {
-            "component": "//*[@id='main']/div/div[1]/ul/li[3]/a"
+            "component": "//*[@id='main']/div/div[1]/ul/li[3]/a",
             "url": "https://uniaotintas.com.br/dicas/",
         },
 
-        "contatoUniaoTintasEmail": "/html/body/footer/div/div[2]/a"
-    }
+        "contatoUniaoTintasEmail": "/html/body/footer/div/div[2]/a",
+    },
 }
