@@ -1,6 +1,0 @@
-{
-    "dicasDePinturaComponent": "//*[@id='main']/div/div[1]/ul/li[1]/a",
-    "catalogoDeProdutosComponent": "//*[@id='main']/div/div[1]/ul/li[2]/a",
-    "calculadoraTintasComponent" : "//*[@id='main']/div/div[1]/ul/li[3]/a",
-    "plantaBaixaComponent": "//*[@id='main']/div/div[2]/div",
-},
