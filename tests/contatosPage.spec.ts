@@ -1,6 +1,6 @@
 import { test } from '@playwright/test';
 import { contatoPage } from '../locators/urlWeb.json';
-import { ContatoPageComponent } from '../components/ContatoPageComponent.json';
+import { contatoComponent } from '../components/ContatoPageComponent.json';
 
 test('Verificar se tem o componente Nome', async ({ page }) => {
     await page.goto(contatoPage);
