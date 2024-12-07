@@ -2,7 +2,7 @@
     "contatoComponent": {
         "nomeComponent": "Nome",
         "emailComponent": "E-mail",
-        "telefoneComponent": "/Telefone",
+        "telefoneComponent": "Telefone",
         "assuntoComponent": "Assunto",
         "mensagemComponent": "Mensagem",
         "botaoEnviarComponent": "//*[@id='wpcf7-f22-p14-o1']/form/p[2]/input"
